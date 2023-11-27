@@ -2,7 +2,7 @@
   "name": "seti-minimal-folder",
   "displayName": "Standard Seti Icons + Standard Folder Icons from Minimal",
   "description": "Standard Seti Icons (vs-seti) + Standard Folder Icons from Minimal (vs-minimal)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {"url": "https://github.com/sabahtalateh/seti-minimal-folder"},
   "publisher": "sabaken",
   "license": "MIT",
