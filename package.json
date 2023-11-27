@@ -3,7 +3,8 @@
   "displayName": "seti-minimal-folder",
   "description": "Standard Seti Icons (vs-seti) + Standard Folder Icons from Minimal (vs-minimal)",
   "version": "0.0.1",
-  "repository": {"url": ""},
+  "repository": {"url": "https://github.com/sabahtalateh/seti-minimal-folder"},
+  "publisher": "sabaken",
   "engines": {
     "vscode": "^1.84.0"
   },
