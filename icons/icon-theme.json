@@ -13,6 +13,7 @@
 			"size": "150%"
 		}
 	],
+	// "hidesExplorerArrows": true,
 	"iconDefinitions": {
 		"_root_folder_dark": {
 			"iconPath": "./images/root-folder-dark.svg"
