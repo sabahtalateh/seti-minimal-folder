@@ -5,6 +5,8 @@
   "version": "0.0.1",
   "repository": {"url": "https://github.com/sabahtalateh/seti-minimal-folder"},
   "publisher": "sabaken",
+  "license": "MIT",
+  "icon": "icons/circular-128x128.png",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -16,7 +18,7 @@
       {
         "id": "seti-minimal-folder",
         "label": "Seti Icons (vs-seti) + Folder Icons from Minimal (vs-minimal)",
-        "path": "./fileicons/icon-theme.json"
+        "path": "./icons/icon-theme.json"
       }
     ]
   }
