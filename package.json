@@ -6,7 +6,7 @@
   "repository": {"url": "https://github.com/sabahtalateh/seti-minimal-folder"},
   "publisher": "sabaken",
   "license": "MIT",
-  "icon": "icons/circular-128x128.png",
+  "icon": "icons/seti-circular-128x128.png",
   "engines": {
     "vscode": "^1.84.0"
   },
